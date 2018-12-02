@@ -1,0 +1,4 @@
+1. boot0 -> 1
+   boot1 -> 0
+
+2. STMicroelectronics flash loader.exe ╢╝©зобть
